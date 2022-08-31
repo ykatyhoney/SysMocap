@@ -35,7 +35,7 @@
     "lil-gui": "^0.16.1",
     "marked": "^4.0.12",
     "mdui": "^1.0.2",
-    "pdfjs-dist": "^2.13.216",
+    "pdfjs-dist": "^2.16.105",
     "simple-argv": "^2.0.4",
     "socket.io": "^4.5.1",
     "svelte-jsoneditor": "^0.3.59",
