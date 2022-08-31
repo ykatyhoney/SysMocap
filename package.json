@@ -37,7 +37,7 @@
     "mdui": "^1.0.2",
     "pdfjs-dist": "^2.13.216",
     "simple-argv": "^2.0.4",
-    "socket.io": "^4.5.0",
+    "socket.io": "^4.5.1",
     "svelte-jsoneditor": "^0.3.59",
     "three": "^0.137.4",
     "vue": "^2.6.14"
