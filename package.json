@@ -43,7 +43,7 @@
     "vue": "^2.7.10"
   },
   "devDependencies": {
-    "electron": "^20.1.0",
+    "electron": "^20.1.1",
     "electron-installer-dmg": "^4.0.0",
     "electron-installer-zip": "^0.1.2",
     "electron-packager": "^15.5.2"
