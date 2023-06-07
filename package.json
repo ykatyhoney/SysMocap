@@ -20,7 +20,7 @@
     "@electron/remote": "^2.0.8",
     "@mediapipe/camera_utils": "^0.3.1640029074",
     "@mediapipe/drawing_utils": "^0.3.1620248257",
-    "@mediapipe/holistic": "^0.5.1635989137",
+    "@mediapipe/holistic": "^0.5.1675471629",
     "@pixiv/three-vrm": "^0.6.11",
     "color": "^4.2.3",
     "command-line-usage": "^6.1.3",
