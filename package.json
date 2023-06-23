@@ -42,7 +42,7 @@
     "mica-electron": "^1.4.3",
     "pdfjs-dist": "^2.13.216",
     "simple-argv": "^2.0.4",
-    "socket.io": "^4.5.3",
+    "socket.io": "^4.7.0",
     "svelte-jsoneditor": "^0.3.60",
     "three": "^0.137.4",
     "vue": "^2.6.14"
