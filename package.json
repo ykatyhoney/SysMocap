@@ -16,7 +16,7 @@
   "author": "xianfei",
   "license": "ISC",
   "dependencies": {
-    "@electron/remote": "^2.0.10",
+    "@electron/remote": "^2.0.11",
     "@material/material-color-utilities": "^0.2.7",
     "@mediapipe/camera_utils": "^0.3.1675466862",
     "@mediapipe/drawing_utils": "^0.3.1675466124",
