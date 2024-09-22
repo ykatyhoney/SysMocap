@@ -34,7 +34,7 @@
     "kalidokit": "^1.1.5",
     "lil-gui": "^0.16.1",
     "mdui": "^1.0.2",
-    "socket.io": "^4.5.3",
+    "socket.io": "^4.8.0",
     "svelte-jsoneditor": "^0.3.60",
     "three": "^0.164.1",
     "vue": "^2.7.14"
