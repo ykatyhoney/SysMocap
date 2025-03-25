@@ -37,7 +37,7 @@
     "socket.io": "^4.5.3",
     "svelte-jsoneditor": "^0.3.60",
     "three": "^0.164.1",
-    "vue": "^2.7.14"
+    "vue": "^3.5.12"
   },
   "devDependencies": {
     "@electron/packager": "^18.3.3",
