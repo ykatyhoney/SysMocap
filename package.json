@@ -23,7 +23,7 @@
   "comment:deps": "Build-only packages (bundled into dist/assets, or copied to dist/node_modules via vite-plugin-static-copy) live in devDependencies so @electron/packager prunes them from the shipped node_modules. Runtime deps stay here: required by the (un-bundled) main.js / webserv, OR served from /node_modules to the web client (three, @pixiv/three-vrm, kalidokit, socket.io).",
   "dependencies": {
     "@electron/remote": "^2.1.2",
-    "@pixiv/three-vrm": "^2.1.2",
+    "@pixiv/three-vrm": "^2.1.3",
     "color": "^4.2.3",
     "electron-localstorage": "^1.0.5",
     "express": "^4.18.2",
