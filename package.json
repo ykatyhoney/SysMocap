@@ -30,7 +30,7 @@
     "express-ws": "^5.0.2",
     "github-version-checker": "^2.3.0",
     "kalidokit": "^1.1.5",
-    "socket.io": "^4.5.3",
+    "socket.io": "^4.8.3",
     "three": "^0.164.1"
   },
   "comment:optionalDeps": "electron-liquid-glass is a macOS-only native addon (private macOS 26 APIs, no Windows/Linux prebuild). Kept optional so `npm install` never fails where it can't build; main.js require()s it inside a try/catch and only uses it on macOS 26+.",
