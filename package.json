@@ -44,7 +44,7 @@
     "@mediapipe/drawing_utils": "^0.3.1675466124",
     "@mediapipe/holistic": "^0.5.1675471629",
     "@vitejs/plugin-vue": "^6.0.7",
-    "electron": "^42.4.0",
+    "electron": "^42.5.1",
     "fs-extra": "^11.2.0",
     "lil-gui": "^0.16.1",
     "mdui": "^1.0.2",
